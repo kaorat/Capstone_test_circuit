@@ -16,3 +16,5 @@ h q[8];
 h q[9];
 barrier q;
 measure q -> c;
+
+//every state --> 0.97%
