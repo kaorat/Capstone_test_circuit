@@ -11,3 +11,5 @@ y q[0];
 barrier q;
 
 measure q -> c;
+
+//10: 100.00%

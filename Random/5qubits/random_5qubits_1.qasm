@@ -24,3 +24,7 @@ measure q[1] -> c[1];
 measure q[2] -> c[2];
 measure q[3] -> c[3];
 measure q[4] -> c[4];
+
+
+//00011: 50.00%
+//01011: 50.00%

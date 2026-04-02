@@ -10,3 +10,5 @@ cx q[1], q[0];
 
 barrier q;
 measure q -> c;
+
+//00: 100.00% 

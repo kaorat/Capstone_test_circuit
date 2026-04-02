@@ -13,3 +13,5 @@ z q[0];
 
 barrier q;
 measure q -> c;
+
+//011: 100.00%
